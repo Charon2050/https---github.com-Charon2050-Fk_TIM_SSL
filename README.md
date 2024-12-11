@@ -24,4 +24,8 @@ PC 版 TIM 在打开分享链接时，使用了一个已经被弃用的 URL 跳�
 
 本扩展自动生效，在打开 TIM 的卡片分享链接时，会自动跳转至对应的正确链接。
 
+---
 
+## AI 对话记录展示
+
+本插件的功能完全由 ChatGPT 编写，对话记录：[https://chatgpt.com/share/675957a8-647c-8012-b6d4-0fbf4c87015c](https://chatgpt.com/share/675957a8-647c-8012-b6d4-0fbf4c87015c)
